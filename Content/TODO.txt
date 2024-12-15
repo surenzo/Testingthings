@@ -1,0 +1,2 @@
+ - change inventory I to close inventory to enhanced input action :)
+ - change inventory widget ( player menu ) so it change its visibility not the creation :)
